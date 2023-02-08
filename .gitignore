@@ -1,0 +1,6 @@
+# folder
+__pycache__
+/00*
+
+#file
+*.zip

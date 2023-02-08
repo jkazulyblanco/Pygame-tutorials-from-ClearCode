@@ -1,0 +1,1 @@
+bg_music.play(loops= -1) # forever loop
