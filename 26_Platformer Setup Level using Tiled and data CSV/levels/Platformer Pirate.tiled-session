@@ -6,13 +6,14 @@
     "activeFile": "level_data/level_0.tmx",
     "expandedProjectPaths": [
     ],
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "C:/Users/jk_az/Desktop/pygame/ClearCode/16_TILED/data/tmx/basic.tmx": {
             "scale": 0.5,
             "selectedLayer": 4,
             "viewCenter": {
                 "x": 2240,
-                "y": 2047
+                "y": 2046
             }
         },
         "C:/Users/jk_az/Desktop/pygame/ClearCode/16_TILED/data/tsx/Objects.tsx": {
@@ -29,6 +30,14 @@
             "dynamicWrapping": false,
             "scaleInDock": 1
         },
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/27_Platformer Overworld/02_Platformer and overworld Integration/levels/level_data/level_0.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 302.6666666666667,
+                "y": 277.33333333333337
+            }
+        },
         "level_data/grasss.tsx": {
             "dynamicWrapping": true,
             "scaleInDock": 1,
@@ -38,8 +47,8 @@
             "scale": 0.75,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 302.6666666666667,
-                "y": 509.33333333333337
+                "x": 336,
+                "y": 371.99999999999994
             }
         },
         "tilesets/coin_tiles.tsx": {
@@ -88,13 +97,13 @@
     "map.tileWidth": 64,
     "map.width": 60,
     "openFiles": [
-        "level_data/level_0.tmx",
-        "C:/Users/jk_az/Desktop/pygame/ClearCode/16_TILED/data/tmx/basic.tmx"
+        "level_data/level_0.tmx"
     ],
     "project": "Platformer Pirate.tiled-project",
     "recentFiles": [
-        "C:/Users/jk_az/Desktop/pygame/ClearCode/16_TILED/data/tmx/basic.tmx",
         "level_data/level_0.tmx",
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/27_Platformer Overworld/02_Platformer and overworld Integration/levels/level_data/level_0.tmx",
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/16_TILED/data/tmx/basic.tmx",
         "tilesets/enemy_tiles.tsx",
         "tilesets/player_tiles.tsx",
         "tilesets/palms.tsx",

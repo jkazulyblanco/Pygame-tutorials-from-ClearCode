@@ -61,10 +61,10 @@ while True:
                 points = [(point.x, point.y) for point in obj.points]
                 pygame.draw.polygon(screen, 'darkgrey', points)
 
-            if obj.name == 'Texto':
+            # if obj.name == 'Texto':
                 # font = pygame.freetype.SysFont('Verdana', obj.) # text method 
                 # font.render_to(screen, (obj.x, obj.y), str(obj.Text), fgcolor='white', bgcolor=None, style=1, rotation=0, size=0)
-                print(obj.type)
+                # print(obj.)
 
     pygame.display.update()
     clock.tick(60)
