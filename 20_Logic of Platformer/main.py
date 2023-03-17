@@ -13,11 +13,6 @@ background = pygame.image.load('bg_minecraft.jpg').convert()
 
 level = Level()
 
-jumps = 1
-
-JUMP_DELAY = pygame.USEREVENT + 1
-pygame.time.set_timer(JUMP_DELAY, 1000)
-
 # Game Loop =========================================
 while True:    
     for event in pygame.event.get():
@@ -27,13 +22,9 @@ while True:
         # events ===================================
         
         if event.type == pygame.KEYDOWN:
-            if event.key == pygame.K_SPACE and jumps == 1:
+            if event.key == pygame.K_SPACE:
                 level.player.jump()
-                jumps -= 1
-        elif jumps == 0:
-            if event.type == JUMP_DELAY:
-                jumps = 1
-        
+       
 
     # Draw - Update =================================
     screen.blit(background, (0,0))

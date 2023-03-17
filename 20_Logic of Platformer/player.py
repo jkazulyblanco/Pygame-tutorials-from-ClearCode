@@ -15,7 +15,8 @@ class Player(pygame.sprite.Sprite):
         self.gravity = 0.8 # 0.01 # test value
         self.jump_speed = 16 # 1 # test value
         self.collision_sprites = collision_sprites
-        # self.on_floor = False
+        self.on_floor = False
+        self.double_jump = False
         
 
     def input(self):
@@ -26,12 +27,15 @@ class Player(pygame.sprite.Sprite):
             self.direction.x = -1
         else: # when no pressing any keys
             self.direction.x = 0
-               
-        # if keys[pygame.K_SPACE] and self.on_floor:
-        #     self.direction.y = -self.jump_speed
 
     def jump(self):
-        self.direction.y = -self.jump_speed
+        if self.on_floor:
+            self.direction.y = -self.jump_speed
+            self.double_jump = True
+            self.on_floor = False
+        elif self.double_jump:
+            self.direction.y = -self.jump_speed
+            self.double_jump = False
 
     def horizontal_collisions(self):
         for sprite in self.collision_sprites.sprites():
@@ -57,11 +61,6 @@ class Player(pygame.sprite.Sprite):
                     self.rect.top = sprite.rect.bottom
                     # reset to avoid increment of jump every frame
                     self.direction.y = 0
-        
-        # jump fix
-        # if self.on_floor and self.direction.y != 0:
-        #     self.on_floor = False
-
 
     def apply_gravity(self):
         self.direction.y += self.gravity
