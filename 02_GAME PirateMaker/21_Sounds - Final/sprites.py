@@ -275,6 +275,7 @@ class Player(Generic):
         else:
             if self.pressed: # update, do once
                 self.direction.y = -2
+                print('hkdsjhfkhd')
                 self.jump_sound.play()
                 self.pressed = False  
 
