@@ -1,0 +1,213 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level_data/level_0.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/jk_az/Desktop/pygame/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/coin_tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/enemy_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/grass.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/grass_small.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/palms.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/player_tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/terrain_tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/water.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/16_TILED/data/tmx/basic.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2240,
+                "y": 2046
+            }
+        },
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/16_TILED/data/tsx/Objects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/16_TILED/data/tsx/terrain_corner.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/16_TILED/data/tsx/terrain_edges.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/16_TILED/data/tsx/tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/coin_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/enemy_tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/grass.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/grass_small.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/palms.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/player_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/terrain_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/water.tsx": {
+            "scaleInDock": 1
+        },
+        "level_data/grasss.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_data/level_0.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 446.969696969697,
+                "y": 190.90909090909088
+            }
+        },
+        "level_data/level_1.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 482,
+                "y": 362
+            }
+        },
+        "level_data/level_2.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 365.33333333333326,
+                "y": 346.66666666666663
+            }
+        },
+        "level_data/level_3.tmx": {
+            "scale": 0.17169270833333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1922.0385257090852,
+                "y": 355.2859092977401
+            }
+        },
+        "level_data/level_4.tmx": {
+            "scale": 0.17169270833333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1922.0385257090852,
+                "y": 355.2859092977401
+            }
+        },
+        "level_data/level_5.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 365.33333333333326,
+                "y": 346.66666666666663
+            }
+        },
+        "tilesets/coin_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/enemy_tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/grass.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/grass_small.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/palms.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "tilesets/player_tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/terrain_tiles.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "tilesets/water.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/jk_az/Desktop/pygame/ClearCode/26_Platformer Setup Level using Tiled and data CSV/levels/0",
+    "last.externalTilesetPath": "C:/Users/jk_az/Desktop/pygame/ClearCode/28_Platformer Heath bar coin indicators/levels/tilesets",
+    "last.imagePath": "C:/Users/jk_az/Desktop/pygame/ClearCode/25_GAME Platformer Pirate/graphics/enemy",
+    "map.height": 11,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 60,
+    "openFiles": [
+        "level_data/level_0.tmx"
+    ],
+    "project": "Platformer Pirate.tiled-project",
+    "recentFiles": [
+        "level_data/level_0.tmx",
+        "C:/Users/jk_az/Desktop/pygame/26_Platformer Setup Level using Tiled and data CSV/levels/tilesets/coin_tiles.tsx",
+        "level_data/level_1.tmx",
+        "level_data/level_2.tmx",
+        "level_data/level_3.tmx",
+        "level_data/level_4.tmx",
+        "level_data/level_5.tmx",
+        "C:/Users/jk_az/Desktop/pygame/ClearCode/16_TILED/data/tmx/basic.tmx",
+        "tilesets/enemy_tiles.tsx",
+        "tilesets/player_tiles.tsx",
+        "tilesets/palms.tsx",
+        "tilesets/grass_small.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    },
+    "tileset.type": 1
+}

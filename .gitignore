@@ -1,0 +1,16 @@
+
+# folders
+/.vs
+/build
+__pycache__
+
+# files
+*.obj
+*.exe
+*.rar
+*.zip
+*.ini
+**.sln
+**.vcxproj
+**.vcxproj.user
+**.vcxproj.filters
